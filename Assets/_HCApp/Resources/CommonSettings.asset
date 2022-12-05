@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8860ca6147b39944888e452fded1e71, type: 3}
+  m_Name: CommonSettings
+  m_EditorClassIdentifier: 
+  defaultSettings: "{\"keys\":[],\"values\":[],\"panelPrefab\":{\"instanceID\":10686},\"tabName\":\"\u041E\u0431\u0449\u0438\u0435
+    \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438\",\"tabNameTerm\":\"Settings/common_label\",\"priority\":0,\"filterScene\":\"\",\"showInSettingsPanel\":true,\"language\":\"\",\"projectLocalizationUrl\":\"\",\"engineLocalizationOverrideUrl\":\"\",\"effectsVolume\":0.800000011920929,\"musicVolume\":0.800000011920929,\"voiceVolume\":0.800000011920929,\"ambientsVolume\":0.800000011920929,\"muteCoefficient\":0.10000000149011612,\"windowState\":0,\"vsyncMode\":1,\"HaveLogo\":false,\"XPos\":0.0,\"YPos\":0.0,\"LogoPath\":\"\",\"Scale\":1.0,\"ShowFPS\":false,\"transformGizmoData\":[],\"CornerFPS\":0,\"transformGizmoHandlesScale\":1.0}"
+  keys: []
+  values: []
+  panelPrefab: {fileID: 3371735214737708677, guid: e469776440e1b6c4189a65f3e7435d23, type: 3}
+  tabName: "\u041E\u0431\u0449\u0438\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+  tabNameTerm: Settings/common_label
+  priority: 0
+  filterScene: 
+  showInSettingsPanel: 1
+  language: 
+  projectLocalizationUrl: 
+  engineLocalizationOverrideUrl: 
+  effectsVolume: 0.8
+  musicVolume: 0.8
+  voiceVolume: 0.8
+  ambientsVolume: 0.8
+  muteCoefficient: 0.1
+  windowState: 0
+  vsyncMode: 1
+  HaveLogo: 0
+  XPos: 0
+  YPos: 0
+  LogoPath: 
+  Scale: 1
+  ShowFPS: 0
+  transformGizmoData: []
+  CornerFPS: 0
+  transformGizmoHandlesScale: 1

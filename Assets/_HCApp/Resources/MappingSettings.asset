@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb6c101d4162e04286874bc4fcca282, type: 3}
+  m_Name: MappingSettings
+  m_EditorClassIdentifier: 
+  defaultSettings: "{\"keys\":[],\"values\":[],\"panelPrefab\":{\"instanceID\":26314},\"tabName\":\"\u041C\u0430\u043F\u043F\u0438\u043D\u0433\",\"tabNameTerm\":\"Mapping/Title\",\"priority\":0,\"filterScene\":\"\",\"showInSettingsPanel\":true,\"singleDisplayMode\":false,\"bringToFrontEnabled\":true,\"windowWidth\":1920,\"windowHeight\":1080,\"renderWidth\":1920,\"renderHeight\":1080,\"horizontalOffset\":0,\"verticalOffset\":0,\"horizontalDisplays\":1,\"verticalDisplays\":1,\"overlapX\":0,\"overlapY\":0,\"projectionUnits\":\"{\\\"units\\\":[\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{\\\\\\\"units\\\\\\\":[{\\\\\\\"centerPosition\\\\\\\":{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.0,\\\\\\\"z\\\\\\\":9.0},\\\\\\\"corners\\\\\\\":[{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0}],\\\\\\\"fadeSliders\\\\\\\":[0.0,0.0,0.0,0.0],\\\\\\\"blendParams\\\\\\\":[{\\\\\\\"slope\\\\\\\":1.2200000286102296,\\\\\\\"gain\\\\\\\":0.5,\\\\\\\"gamma\\\\\\\":2.0},{\\\\\\\"slope\\\\\\\":1.2200000286102296,\\\\\\\"gain\\\\\\\":0.5,\\\\\\\"gamma\\\\\\\":2.0},{\\\\\\\"slope\\\\\\\":1.2200000286102296,\\\\\\\"gain\\\\\\\":0.5,\\\\\\\"gamma\\\\\\\":2.0},{\\\\\\\"slope\\\\\\\":1.2200000286102296,\\\\\\\"gain\\\\\\\":0.5,\\\\\\\"gamma\\\\\\\":2.0}],\\\\\\\"textureOffset\\\\\\\":{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.0},\\\\\\\"textureScale\\\\\\\":{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0},\\\\\\\"useDefaultBlendParams\\\\\\\":true,\\\\\\\"resetAlphaToOne\\\\\\\":false,\\\\\\\"QuadHorVertPosInfo\\\\\\\":{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.0},\\\\\\\"warpGridSize\\\\\\\":{\\\\\\\"x\\\\\\\":3,\\\\\\\"y\\\\\\\":3},\\\\\\\"warpGridPoints\\\\\\\":[{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.0},{\\\\\\\"x\\\\\\\":0.3333333432674408,\\\\\\\"y\\\\\\\":0.0},{\\\\\\\"x\\\\\\\":0.6666666865348816,\\\\\\\"y\\\\\\\":0.0},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":0.0},{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.3333333432674408},{\\\\\\\"x\\\\\\\":0.3333333432674408,\\\\\\\"y\\\\\\\":0.3333333432674408},{\\\\\\\"x\\\\\\\":0.6666666865348816,\\\\\\\"y\\\\\\\":0.3333333432674408},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":0.3333333432674408},{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":0.6666666865348816},{\\\\\\\"x\\\\\\\":0.3333333432674408,\\\\\\\"y\\\\\\\":0.6666666865348816},{\\\\\\\"x\\\\\\\":0.6666666865348816,\\\\\\\"y\\\\\\\":0.6666666865348816},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":0.6666666865348816},{\\\\\\\"x\\\\\\\":0.0,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":0.3333333432674408,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":0.6666666865348816,\\\\\\\"y\\\\\\\":1.0},{\\\\\\\"x\\\\\\\":1.0,\\\\\\\"y\\\\\\\":1.0}],\\\\\\\"TargetDisplay\\\\\\\":-1,\\\\\\\"ClipTextureMask\\\\\\\":false}]}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\",\\\"{}\\\"]}\",\"displayWidth\":1920,\"displayHeight\":1080,\"shrinkCorners\":false,\"useCamerasTaggedAsMain\":true,\"physicalWidth\":5333,\"physicalHeight\":3000,\"manualResolution\":false,\"physicalOverlapX\":0,\"physicalOverlapY\":0,\"manualWindowSize\":false,\"use1c1dMode\":false,\"useNDI\":false,\"defaultGamma\":2.0,\"defaultGain\":0.5,\"defaultSlope\":1.2200000286102296,\"forceAlphaOfQuadsToOne\":false,\"maskData\":{\"_paths\":[],\"MaskSavePath\":\"\",\"_defaultVisible\":true,\"_defaultCameraEnabled\":true},\"enableMaskCamera\":true}"
+  keys: []
+  values: []
+  panelPrefab: {fileID: 6119658437232323255, guid: 61dc2a3d155c0134790676703b16911c, type: 3}
+  tabName: "\u041C\u0430\u043F\u043F\u0438\u043D\u0433"
+  tabNameTerm: Mapping/Title
+  priority: 0
+  filterScene: 
+  showInSettingsPanel: 1
+  singleDisplayMode: 0
+  bringToFrontEnabled: 1
+  windowWidth: 1920
+  windowHeight: 1080
+  renderWidth: 1920
+  renderHeight: 1080
+  horizontalOffset: 0
+  verticalOffset: 0
+  horizontalDisplays: 1
+  verticalDisplays: 1
+  overlapX: 0
+  overlapY: 0
+  projectionUnits: '{"units":["{}","{}","{}","{}","{}","{}","{}","{}","{\"units\":[{\"centerPosition\":{\"x\":0.0,\"y\":0.0,\"z\":9.0},\"corners\":[{\"x\":1.0,\"y\":1.0},{\"x\":1.0,\"y\":1.0},{\"x\":1.0,\"y\":1.0},{\"x\":1.0,\"y\":1.0}],\"fadeSliders\":[0.0,0.0,0.0,0.0],\"blendParams\":[{\"slope\":1.2200000286102296,\"gain\":0.5,\"gamma\":2.0},{\"slope\":1.2200000286102296,\"gain\":0.5,\"gamma\":2.0},{\"slope\":1.2200000286102296,\"gain\":0.5,\"gamma\":2.0},{\"slope\":1.2200000286102296,\"gain\":0.5,\"gamma\":2.0}],\"textureOffset\":{\"x\":0.0,\"y\":0.0},\"textureScale\":{\"x\":1.0,\"y\":1.0},\"useDefaultBlendParams\":true,\"resetAlphaToOne\":false,\"QuadHorVertPosInfo\":{\"x\":0.0,\"y\":0.0},\"warpGridSize\":{\"x\":3,\"y\":3},\"warpGridPoints\":[{\"x\":0.0,\"y\":0.0},{\"x\":0.3333333432674408,\"y\":0.0},{\"x\":0.6666666865348816,\"y\":0.0},{\"x\":1.0,\"y\":0.0},{\"x\":0.0,\"y\":0.3333333432674408},{\"x\":0.3333333432674408,\"y\":0.3333333432674408},{\"x\":0.6666666865348816,\"y\":0.3333333432674408},{\"x\":1.0,\"y\":0.3333333432674408},{\"x\":0.0,\"y\":0.6666666865348816},{\"x\":0.3333333432674408,\"y\":0.6666666865348816},{\"x\":0.6666666865348816,\"y\":0.6666666865348816},{\"x\":1.0,\"y\":0.6666666865348816},{\"x\":0.0,\"y\":1.0},{\"x\":0.3333333432674408,\"y\":1.0},{\"x\":0.6666666865348816,\"y\":1.0},{\"x\":1.0,\"y\":1.0}],\"TargetDisplay\":-1,\"ClipTextureMask\":false}]}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}","{}"]}'
+  displayWidth: 1920
+  displayHeight: 1080
+  shrinkCorners: 0
+  useCamerasTaggedAsMain: 1
+  physicalWidth: 5333
+  physicalHeight: 3000
+  manualResolution: 0
+  physicalOverlapX: 0
+  physicalOverlapY: 0
+  manualWindowSize: 0
+  use1c1dMode: 0
+  useNDI: 0
+  defaultGamma: 2
+  defaultGain: 0.5
+  defaultSlope: 1.22
+  forceAlphaOfQuadsToOne: 0
+  maskData:
+    _paths: []
+    MaskSavePath: 
+    _defaultVisible: 1
+    _defaultCameraEnabled: 1
+  enableMaskCamera: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e3fd29606830cf48b22d3ab20c8a018, type: 3}
+  m_Name: LevelLoaderSettings
+  m_EditorClassIdentifier: 
+  scenes:
+  - {fileID: 102900000, guid: 20021148c99d42941ba50c2f210e54c7, type: 3}
+  levels:
+  - Name: MainScene
+    Path: Assets/_HCApp/Scenes/MainScene.unity
+  UseMapping: 1
+  UseOSC: 1
+  UseTouch: 1
+  UseSettings: 1
+  UseSoundVolume: 1
+  UseDebugConsole: 1
+  InputSetup: {fileID: 0}
+  UseAnalytics: 0
+  UseProtectionApi: 1
+  UseNdi: 1
+  ScreenMode: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40279a419eb9cc94a935e82a61512196, type: 3}
+  m_Name: GameplaySettings
+  m_EditorClassIdentifier: 
+  defaultSettings: "{\"keys\":[],\"values\":[],\"panelPrefab\":{\"instanceID\":10720},\"tabName\":\"\u0418\u0433\u0440\u043E\u0432\u044B\u0435
+    \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438\",\"tabNameTerm\":\"Settings/gameplay_label\",\"priority\":0,\"filterScene\":\"\",\"showInSettingsPanel\":true,\"timeForInactivity\":30.0,\"touchBreaksWaitScreen\":true,\"showStartInfo\":true,\"showStopInfo\":true,\"theme\":0,\"ChangeSceneImmediate\":false,\"DebugTouch\":false}"
+  keys: []
+  values: []
+  panelPrefab: {fileID: 5419080065750489600, guid: c30832169cec0d74aa152f7d28c64bff, type: 3}
+  tabName: "\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+  tabNameTerm: Settings/gameplay_label
+  priority: 0
+  filterScene: 
+  showInSettingsPanel: 1
+  timeForInactivity: 30
+  touchBreaksWaitScreen: 1
+  showStartInfo: 1
+  showStopInfo: 1
+  theme: 0
+  ChangeSceneImmediate: 0
+  DebugTouch: 0

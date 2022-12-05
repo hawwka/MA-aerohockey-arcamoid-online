@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4eb61a84266c6499035d62ade8efa9, type: 3}
+  m_Name: MappingSettingsV3
+  m_EditorClassIdentifier: 
+  defaultSettings: "{\"keys\":[],\"values\":[],\"panelPrefab\":{\"instanceID\":26314},\"tabName\":\"\u041C\u0430\u043F\u043F\u0438\u043D\u0433\",\"tabNameTerm\":\"Mapping/Title\",\"priority\":0,\"filterScene\":\"\",\"showInSettingsPanel\":false,\"AutoFocus\":true,\"ShrinkCorners\":false,\"ShowAdditionalQuadData\":false,\"ManualWindowSize\":false,\"WindowWidth\":1920,\"WindowHeight\":1080,\"HorizontalWindowOffset\":0,\"VerticalWindowOffset\":0,\"SingleDisplayMode\":false,\"Use1C1DMode\":false,\"DisplayCount\":1,\"HorizontalDisplays\":1,\"VerticalDisplays\":1,\"SurfaceSettings\":[]}"
+  keys: []
+  values: []
+  panelPrefab: {fileID: 6119658437232323255, guid: 61dc2a3d155c0134790676703b16911c, type: 3}
+  tabName: "\u041C\u0430\u043F\u043F\u0438\u043D\u0433"
+  tabNameTerm: Mapping/Title
+  priority: 0
+  filterScene: 
+  showInSettingsPanel: 0
+  AutoFocus: 1
+  ShrinkCorners: 0
+  ShowAdditionalQuadData: 0
+  ManualWindowSize: 0
+  WindowWidth: 1920
+  WindowHeight: 1080
+  HorizontalWindowOffset: 0
+  VerticalWindowOffset: 0
+  SingleDisplayMode: 0
+  Use1C1DMode: 0
+  DisplayCount: 1
+  HorizontalDisplays: 1
+  VerticalDisplays: 1
+  SurfaceSettings: []

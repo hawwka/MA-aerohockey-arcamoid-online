@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af57af1bffdc3b74996bfed71d042b50, type: 3}
+  m_Name: MappingVersionSettings
+  m_EditorClassIdentifier: 
+  keys: []
+  values: []
+  version: 1
+  panelV1: {fileID: 6119658437232323255, guid: 4b375a3fb8cc3ed41babd93c9f4bdbd2, type: 3}
+  settingsSceneV1: MappingSettingsSceneV1
+  panelV2: {fileID: 6119658437232323255, guid: 61dc2a3d155c0134790676703b16911c, type: 3}
+  settingsSceneV2: MappingSettingsSceneV2
+  panelV3: {fileID: 6119658437232323255, guid: 86c2af379392ef043b3699d654ad535f, type: 3}
+  settingsSceneV3: MappingSettingsSceneV3
+  panelTestRoom: {fileID: 6119658437232323255, guid: fa60a44c03bdd9946be9457b2e2b3a03, type: 3}
